@@ -8,9 +8,7 @@ NutriGenie is a personal nutrition assistant application that allows users to an
 - Calculate total calories of food items
 - Display nutritional assessment including details of food items and their calorie counts
 
-## Screenshots
 
-![NutriGenie Screenshot](images/nutrigenie.png)
 
 
 ## Getting Started
