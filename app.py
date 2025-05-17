@@ -9,7 +9,7 @@ from PIL import Image
 load_dotenv()
 
 # Configure Google Gemini Pro Vision API
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=os.getenv("AIzaSyDJd8LtzXMEfjqmfosLcGTNn-T62BtSaz8"))
 
 
 # Function to load Google Gemini Pro Vision API and get response
