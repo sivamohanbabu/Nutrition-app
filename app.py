@@ -38,8 +38,8 @@ def input_image_setup(uploaded_file):
 
 
 # Initialize Streamlit app
-st.set_page_config(page_title="NutriGenie", page_icon="🍏")
-st.title("NutriGenie")
+st.set_page_config(page_title="Nutri Assistance", page_icon="🍏")
+st.title("Nutri Assistance")
 st.write(
     "Your personal nutrition assistant. Analyze food items from images and calculate their total calories."
 )
